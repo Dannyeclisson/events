@@ -69,7 +69,7 @@
         </div>
       </main>
       <footer>
-        <p>10Anos Eventos &copy; 2020</p>
+        <p>10Anos Eventos &copy; 2024</p>
       </footer>
       <script src="https://unpkg.com/ionicons@5.1.2/dist/ionicons.js"></script>
     </body>
